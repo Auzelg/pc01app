@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "pc01app",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/jojo/Workspace/pc01app/amplify/backend/api/pc01app/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-03-12T18:21:49.281Z",
+      "keyDescription": "demo"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
